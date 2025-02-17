@@ -7,7 +7,6 @@ public class Employee {
     double salary;
     String department;
 
-    // Конструктор
     public Employee(int id, String surname, int age, double salary, String department) {
         this.id = id;
         this.surname = surname;
